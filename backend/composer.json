@@ -1,0 +1,15 @@
+{
+    "name": "jean/testephp",
+    "type": "false",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jean"
+        }
+    ],
+    "require": {}
+}
